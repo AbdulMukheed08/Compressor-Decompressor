@@ -4,8 +4,8 @@
  */
 package GUI;
 
-import com.mycompany.compressordecompressor.compressordecompressor.compressor;
-import com.mycompany.compressordecompressor.compressordecompressor.decompressor;
+import compressordecompressor.compressor;
+import compressordecompressor.decompressor;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
